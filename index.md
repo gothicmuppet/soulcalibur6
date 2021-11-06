@@ -12,8 +12,15 @@ Critical Edge
 - Input: A+B+K + 1 bar
 - Super Move
 
+Guard Impact
+- Input: 6+G at time of attack
+- Parries normal attacks, Critical Edges and throws
+
 Reversal Edge
+
+![RE demo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.jr5l5JsOFgE3cb85LYBXHwHaEK%26pid%3DApi&f=1)
 - Input: B+G (chargeable)
+- You can recognize it by the red aura around character.
 - useful to absorb small attacks and throw attempts. You can control the flow of the battle.
 - Triangle system: 
   - B wins against A 
@@ -26,12 +33,14 @@ Soul Charge
 ![Taki soul charge](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.VEVwHA4_fBORbJk0kPhuwgHaEK%26pid%3DApi&f=1)
 - Input: 4+A+B+K
 - This move enhances your current character for a small time.
+- All your moves do chip damage until opponent runs out of life.
 - A few new moves have been added
 - A few old moves have their properties change such as becoming break attacks
 
 Throws
 - Input: G+A or 4+G+A
 - it is the same input to break throws
+- In addition, you can duck or jump to avoid normal throws
 
 # Characters
 
@@ -41,7 +50,7 @@ Throws
 - His strength lies in throws. he can throw you from any position from crouching to the air.
 - His Critical Edge is a throw.
 - His weakness is also from throws. you can break most throws. You cannot break throws when caught in the air.
-- He has slow speed
+- He has slow speed so you have to play a bit defensively.
 
 ### Ivy
 
@@ -59,3 +68,10 @@ Throws
 
 
 # My review
+SC6 is a prequel that happens between 2 & 3. I have issues a few issues at first.
+
+Cons
+- Nobody has their own unique stages
+- Everything is behind a paywall. characters, old music
+- Libra of souls is too long
+- A few old characters are missing: Rock, Lizardman, and Yun Seong.
