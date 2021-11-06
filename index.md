@@ -54,12 +54,12 @@ Throws
 
 ### Ivy
 
-![Ivy Opening](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIF.YUfIi2d%252fmmnLqYx8QbMqYw%26pid%3DApi&f=1)
+![Ivy trailer pic](http://www.fightersgeneration.com/nf2/game/soulcalibur6/4/ivy-soulcalibur6-trailer-art.PNG)
 - Her strength lies in range. She has tools for almost everything.
 
 ### Maxi
 
-![Maxi pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.zUiNEatcZB8AlONU9tUfmwHaEK%26pid%3DApi&f=1)
+![Maxi trailer pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.zUiNEatcZB8AlONU9tUfmwHaEK%26pid%3DApi&f=1)
 - Strategy is to get 7 stars stance
 - You need to do moves when you walk backwards and forwards. You do not have to hit the opponent to gain a star.
 - You get to see how many stars you have during each move.
