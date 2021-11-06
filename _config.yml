@@ -2,3 +2,5 @@
 
 # owner/name
 remote_theme: bdhu/Minimalist
+
+theme: jekyll-theme-leap-day
