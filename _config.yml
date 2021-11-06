@@ -1,6 +1,9 @@
-# theme: jekyll-theme-leap-day
-
-# owner/name
-remote_theme: bdhu/Minimalist
-
 theme: jekyll-theme-leap-day
+
+# owner/name of theme
+# remote_theme: bdhu/Minimalist
+
+# header 1
+title: Soul Calibur 6
+
+description: GothicMuppet notes
