@@ -66,6 +66,13 @@ Throws
 - There are 3 stances going forward, 3 going backwards and 1 netural.
 - Neutral stance is hitting B+K during stance
 
+# Season Info
+
+Season | Normal Price | Characters | Guest Character | Character Creation | Other
+--| --| --| --| --| --|
+1 | $30 | Amy, Tira, Cassandra | 2B | Set A, B | n/a
+2 | $34 | Hilde, Setsuka, Hwang | Haohmaru | Set C - F | Addtional music tracks
+
 
 # My review
 SC6 is a prequel that happens between 2 & 3. I have issues a few issues at first.
