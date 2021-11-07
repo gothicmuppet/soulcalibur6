@@ -78,6 +78,16 @@ Weaknesses
 - There are 3 stances going forward, 3 going backwards and 1 netural.
 - Neutral stance is hitting B+K during stance
 
+### Voldo
+
+![Voldo trailer pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.zkBYurnKPXsih6t9JBUHHgHaEK%26pid%3DApi&f=1)
+
+Strengths
+- Your opponent will have a difficult time reading your moves
+
+Weaknesses
+- He has to work hard against opponents who can outrange him.
+
 # Season Info
 
 Season | Normal Price | Characters | Guest Character | Character Creation | Other
@@ -89,10 +99,13 @@ Season | Normal Price | Characters | Guest Character | Character Creation | Othe
 # My review
 SC6 is a prequel that happens between 2 & 3. I was not sure about buying the season passes. I have issues a few issues at first.
 
+Pros
+- Base game starts with 23 characters
+
 Cons
 - Nobody has their own unique stages
 - Everything is behind a paywall. characters, old music, stages
 - there is only one costume per character. the rest our color swaps.
 - Libra of souls is too long
-- A few old characters are missing: Rock, Lizardman, and Yun Seong. I might as well play any of the past SoulCalbiur games.
+- A few old characters are missing: Rock, Lizardman, Charade, and Yun Seong. I might as well play any of the past SoulCalbiur games.
 - Guest characters can be overpowering.
