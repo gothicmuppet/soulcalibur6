@@ -1,4 +1,4 @@
-# SoulCalibur 6
+A game I caught on sale on Steam. 
 
 # Gameplay basics
 
@@ -14,8 +14,11 @@ Critical Edge
 - Super Move
 
 Guard Impact
+
+![Guard Impact pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.y4QGO_yx_6SAS9N23IQi8gHaEK%26pid%3DApi&f=1)
 - Input: 6+G at time of attack
 - Parries all levels of normal attacks (high, mid, low), Critical Edges and throws
+- A missed parry is when you see a green spark.
 
 Resist Impact
 - Input: 6+G+B + 2 sub bars
@@ -84,7 +87,7 @@ Season | Normal Price | Characters | Guest Character | Character Creation | Othe
 
 
 # My review
-SC6 is a prequel that happens between 2 & 3. I have issues a few issues at first.
+SC6 is a prequel that happens between 2 & 3. I was not sure about buying the season passes. I have issues a few issues at first.
 
 Cons
 - Nobody has their own unique stages
