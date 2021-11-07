@@ -3,6 +3,7 @@
 # Gameplay basics
 
 Break attacks
+- Input: A+B for universal break attacks
 - Moves that can go thru GI and Reversal Edge
 - Moves that have electricity around them
 
@@ -14,7 +15,11 @@ Critical Edge
 
 Guard Impact
 - Input: 6+G at time of attack
-- Parries normal attacks, Critical Edges and throws
+- Parries all levels of normal attacks (high, mid, low), Critical Edges and throws
+
+Resist Impact
+- Input: 6+G+B + 2 sub bars
+- Parries everything including break attacks and Revesal Edge
 
 Reversal Edge
 
@@ -47,20 +52,22 @@ Throws
 ### Astaroth
 
 ![Astaroth Trailer pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.dt-BJhelnY8pOL-f8smHFgHaEK%26pid%3DApi&f=1)
+Strengths
 - His strength lies in throws. he can throw you from any position from crouching to the air.
 - His Critical Edge is a throw.
+Weaknesses
 - His weakness is also from throws. you can break most throws. You cannot break throws when caught in the air.
-- He has slow speed so you have to play a bit defensively.
+- He has slow speed and moves so you have to play a bit defensively.
 
 ### Ivy
 
 ![Ivy trailer pic](http://www.fightersgeneration.com/nf2/game/soulcalibur6/4/ivy-soulcalibur6-trailer-art.PNG)
-- Her strength lies in range. She has tools for almost everything.
+- Her strength lies in range and control of the battle. She has tools for almost everything.
 
 ### Maxi
 
 ![Maxi trailer pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.zUiNEatcZB8AlONU9tUfmwHaEK%26pid%3DApi&f=1)
-- Strategy is to get 7 stars stance
+- Strategy is to get 7 stars stance while beating your opponent.
 - You need to do moves when you walk backwards and forwards. You do not have to hit the opponent to gain a star.
 - You get to see how many stars you have during each move.
 - There are 3 stances going forward, 3 going backwards and 1 netural.
@@ -79,6 +86,8 @@ SC6 is a prequel that happens between 2 & 3. I have issues a few issues at first
 
 Cons
 - Nobody has their own unique stages
-- Everything is behind a paywall. characters, old music
+- Everything is behind a paywall. characters, old music, stages
+- there is only one costume per character. the rest our color swaps.
 - Libra of souls is too long
-- A few old characters are missing: Rock, Lizardman, and Yun Seong.
+- A few old characters are missing: Rock, Lizardman, and Yun Seong. I might as well play any of the past SoulCalbiur games.
+- Guest characters can be overpowering.
