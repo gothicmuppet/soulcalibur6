@@ -52,9 +52,11 @@ Throws
 ### Astaroth
 
 ![Astaroth Trailer pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.dt-BJhelnY8pOL-f8smHFgHaEK%26pid%3DApi&f=1)
+
 Strengths
 - His strength lies in throws. he can throw you from any position from crouching to the air.
 - His Critical Edge is a throw.
+
 Weaknesses
 - His weakness is also from throws. you can break most throws. You cannot break throws when caught in the air.
 - He has slow speed and moves so you have to play a bit defensively.
