@@ -64,6 +64,16 @@ Weaknesses
 - His weakness is also from throws. you can break most throws. You cannot break throws when caught in the air.
 - He has slow speed and moves so you have to play a bit defensively.
 
+### Hwang
+
+![Hwang trailer pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.ASh6-IymubOGX-X3XHGrKgHaEK%26pid%3DApi&f=1)
+
+Strengths
+- His kick attacks are amazing for close and mid range fighting
+
+Weaknesses
+- I have not seen any yet.
+
 ### Ivy
 
 ![Ivy trailer pic](http://www.fightersgeneration.com/nf2/game/soulcalibur6/4/ivy-soulcalibur6-trailer-art.PNG)
@@ -87,6 +97,16 @@ Strengths
 
 Weaknesses
 - He has to work hard against opponents who can outrange him.
+
+### Yoshimitsu
+
+![Yoshi trailer pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.RgbZtacW6ogMTndyspPHKwHaEK%26pid%3DApi&f=1)
+
+Strengths
+- His critical edge homes in on you coming from the top
+
+Weaknesses
+- His universal breaker attack is not good.
 
 # Season Info
 
