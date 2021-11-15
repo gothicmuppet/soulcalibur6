@@ -62,6 +62,7 @@ Strengths
 
 Weaknesses
 - His weakness is also from throws. you can break most throws. You cannot break throws when caught in the air.
+- Forward throws are broken by neurtal A. In other words, 50% chance of breaking throws.
 - He has slow speed and moves so you have to play a bit defensively.
 
 ### Hwang
@@ -82,11 +83,13 @@ Weaknesses
 ### Maxi
 
 ![Maxi trailer pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.zUiNEatcZB8AlONU9tUfmwHaEK%26pid%3DApi&f=1)
-- Strategy is to get 7 stars stance while beating your opponent.
+
+Strategy 
+- Get 7 stars stance while beating your opponent.
 - You need to do moves when you walk backwards and forwards. You do not have to hit the opponent to gain a star.
 - You get to see how many stars you have during each move.
-- There are 3 stances going forward, 3 going backwards and 1 netural.
-- Neutral stance is hitting B+K during stance
+- Each move gives you a different star
+- Neutral stance is the only stance that you can use critical art
 
 ### Voldo
 
@@ -125,7 +128,7 @@ Pros
 Cons
 - Nobody has their own unique stages
 - Everything is behind a paywall. characters, old music, stages
-- there is only one costume per character. the rest our color swaps.
+- there is only one costume per character. the rest are color swaps.
 - Libra of souls is too long
 - A few old characters are missing: Rock, Lizardman, Charade, and Yun Seong. I might as well play any of the past SoulCalbiur games.
 - Guest characters can be overpowering.
